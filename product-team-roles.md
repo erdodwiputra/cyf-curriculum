@@ -1,16 +1,16 @@
-🧭 Workshop Title: **“Getting to Know Your Digital Product Teams”**
+#🧭 Workshop Title: **“Getting to Know Your Digital Product Team Members”**
 
 
-🎯 Goal:
+##🎯 Goal:
 By the end of this workshop, participants will understand the roles, responsibilities, and interactions of key team members in a digital product team.
 
 
-🕒 Total Duration: 3 hours
+##🕒 Total Duration: 3 hours
 
 The total workshop is divided into 5 sections with breaks and interactive activities.
 
 
-Section 1: **Welcome & Overview of a Digital Product Organization**
+## Section 1: **Welcome & Overview of a Digital Product Organization**
 
 Duration: 20 minutes
 
@@ -31,7 +31,7 @@ Participants pair up and share what they think a “digital product” is.
 Then compare with real-world examples (e.g., mobile apps, websites, CRM platforms).
 
 
-Section 2: **Meet the Teams**
+## Section 2: **Meet the Teams**
 
 Duration: 40 minutes
 
@@ -56,7 +56,7 @@ Activity:
 Each pair needs to define a RACI (Responsible, Accountable, Consulted, Informed) matrix within the software development lifecycle
 Explain what each member does within that lifecycle (e.g., requirement, developing, testing, ceremonies, etc.).
 
-Section 3: **How the Team Members Work Together**
+## Section 3: **How the Team Members Work Together**
 
 Duration: 60 minutes
 
@@ -76,7 +76,7 @@ Each team gets to role-play a different sprint ceremony (sprint planning, sprint
 - Each participant takes on a team member role and demo to users what is ready to ship within the sprint
 - Each participant takes on a team member role and discuss what has been done well and what is room for improvements
 
-Section 4: **Deep Dive Research & Team Interviews**
+## Section 4: **Deep Dive Research & Team Interviews**
 
 Duration: 30 minutes
 
@@ -90,7 +90,7 @@ Participants choose one team to research using internal resources (files, chats,
 Prepare 3 questions to ask a real team member.
 Conduct a short live or mock interview.
 
-Section 5: **Wrap-Up & Reflection**
+## Section 5: **Wrap-Up & Reflection**
 
 Duration: 30 minutes
 
