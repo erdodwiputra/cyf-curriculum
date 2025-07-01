@@ -3,7 +3,6 @@
 ## Prep:
 Have a read in this documentation of the many roles within a scrum team
 https://www.atlassian.com/agile/scrum/roles
-https://www.youtube.com/watch?v=mz-u-XoGn7Y
 
 ## 🎯 Goal:
 By the end of this workshop, participants will understand the roles, responsibilities, and interactions of key team members in a digital product team.
@@ -69,7 +68,7 @@ Duration: 40 minutes
 
 Format: Self-guided research + live Q&A with Code Your Future product team
 
-Objective: Let participants explore real team setups in CYF product team and ask any questions related to this workshop.
+Objective: Let participants explore real artifacts within CYF product team and ask any questions related to this workshop.
 
 ### Activity:
 
