@@ -24,7 +24,7 @@ Topics Covered:
 2. What is your favorite digital product? Why so? 
 3. Discuss on what do you think a digital product is built and maintained?
    
-Activity:
+### Activity:
 
 Participants pair up and share what they think a “digital product” is. 
 
@@ -52,7 +52,7 @@ Teams Members Introduced:
 
 5. Scrum Master
 
-Activity:
+### Activity:
 Each pair needs to define a RACI (Responsible, Accountable, Consulted, Informed) matrix within the software development lifecycle
 Explain what each member does within that lifecycle (e.g., requirement, developing, testing, ceremonies, etc.).
 
@@ -70,11 +70,11 @@ Topics Covered:
 2. Communication tools (e.g., Jira, Teams, Slack)
 3. Common challenges and how teams solve them together
 
-Activity:
+### Activity:
 Each team gets to role-play a different sprint ceremony (sprint planning, sprint review, sprint retrospective). 
-- Each participant takes on a team member role and discusses priorities for the week.
-- Each participant takes on a team member role and demo to users what is ready to ship within the sprint
-- Each participant takes on a team member role and discuss what has been done well and what is room for improvements
+- Sprint planning: Each participant takes on a team member role and discusses priorities for the week.
+- Sprint review:  Each participant takes on a team member role and demo to users what is ready to ship within the sprint
+- Sprint retrospective: Each participant takes on a team member role and discuss what has been done well and what is room for improvements
 
 ## Section 4: **Deep Dive Research & Team Interviews**
 
@@ -84,7 +84,7 @@ Format: Self-guided research + live Q&A
 
 Objective: Let participants explore real team setups and ask questions.
 
-Activity:
+### Activity:
 
 Participants choose one team to research using internal resources (files, chats, emails).
 Prepare 3 questions to ask a real team member.
@@ -98,8 +98,7 @@ Format: Group sharing + Quiz
 
 Objective: Reinforce learning and clarify doubts.
 
-
-Activity:
+### Activity:
 
 1. Quick quiz on team roles and workflows
 2. Share one surprising thing learned
