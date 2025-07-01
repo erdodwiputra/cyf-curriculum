@@ -1,11 +1,11 @@
-#🧭 Workshop Title: **“Getting to Know Your Digital Product Team Members”**
+# 🧭 Workshop Title: **“Getting to Know Your Digital Product Team Members”**
 
 
-##🎯 Goal:
+## 🎯 Goal:
 By the end of this workshop, participants will understand the roles, responsibilities, and interactions of key team members in a digital product team.
 
 
-##🕒 Total Duration: 3 hours
+## 🕒 Total Duration: 3 hours
 
 The total workshop is divided into 5 sections with breaks and interactive activities.
 
