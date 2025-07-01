@@ -72,34 +72,31 @@ Topics Covered:
 
 ### Activity:
 Each team gets to role-play a different sprint ceremony (sprint planning, sprint review, sprint retrospective). 
-- Sprint planning: Each participant takes on a team member role and discusses priorities for the week.
-- Sprint review:  Each participant takes on a team member role and demo to users what is ready to ship within the sprint
+- Sprint planning: Each participant takes on a team member role and discusses priorities for the week
+- Sprint review:  Each participant takes on a team member role and demo to users the features that are ready to be shipped
 - Sprint retrospective: Each participant takes on a team member role and discuss what has been done well and what is room for improvements
 
 ## Section 4: **Deep Dive Research & Team Interviews**
 
-Duration: 30 minutes
+Duration: 40 minutes
 
-Format: Self-guided research + live Q&A
+Format: Self-guided research + live Q&A with Code Your Future product team
 
-Objective: Let participants explore real team setups and ask questions.
+Objective: Let participants explore real team setups in CYF product team and ask any questions related to this workshop.
 
 ### Activity:
 
-Participants choose one team to research using internal resources (files, chats, emails).
-Prepare 3 questions to ask a real team member.
-Conduct a short live or mock interview.
+Participants choose one team to research using internal resources (website, slack chats, emails, etc.)
+Prepare 3 questions to ask a real team member from the product team.
 
-## Section 5: **Wrap-Up & Reflection**
+## Section 5: **Reflection & Wrap Up**
 
-Duration: 30 minutes
+Duration: 20 minutes
 
-Format: Group sharing + Quiz
+Format: Group sharing 
 
 Objective: Reinforce learning and clarify doubts.
 
 ### Activity:
+Everyone to share one surprising or most memorable thing that are learned
 
-1. Quick quiz on team roles and workflows
-2. Share one surprising thing learned
-3. Feedback form
