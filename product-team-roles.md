@@ -1,25 +1,25 @@
 # 🧭 **“Getting to Know Your Digital Product Team Members”**
 
+## Prep:
+Have a read in this documentation of the many roles within a scrum team
+https://www.atlassian.com/agile/scrum/roles
+https://www.youtube.com/watch?v=mz-u-XoGn7Y
 
 ## 🎯 Goal:
 By the end of this workshop, participants will understand the roles, responsibilities, and interactions of key team members in a digital product team.
 
-
 ## 🕒 Total Duration: 3 hours
-
 The total workshop is divided into 5 sections with breaks and interactive activities.
-
 
 ## Section 1: **Welcome & Overview of a Digital Product Organization**
 
 Duration: 20 minutes
 
-Format: Pair up with your team mates and have discussion about these questions
-
 Objective: Introduce the concept of a digital product organization and its purpose.
 
-Topics Covered:
+Format: Pair up with your team mates and have discussion about these questions
 
+Topics Covered:
 1. What is a digital product?
 2. What is your favorite digital product? Why so? 
 3. Discuss on what do you think a digital product is built and maintained?
@@ -35,22 +35,9 @@ Then compare with real-world examples (e.g., mobile apps, websites, CRM platform
 
 Duration: 40 minutes
 
-Format: Guided exploration 
-
 Objective: Understand the function of each team members within a digital product team.
 
-
-Teams Members Introduced:
-
-1. Product Owner 
-
-2. Designer (UX/UI) 
-
-3. Engineering/Development (Dev)
-
-4. Quality Assurance (QA)
-
-5. Scrum Master
+Format: Prepare a RACI matrix for the team 
 
 ### Activity:
 Each pair needs to define a RACI (Responsible, Accountable, Consulted, Informed) matrix within the software development lifecycle
@@ -60,9 +47,9 @@ Explain what each member does within that lifecycle (e.g., requirement, developi
 
 Duration: 60 minutes
 
-Format: Role-play + Discussion
+Objective: Simulate how cross-functional collaboration happens in real-world.
 
-Objective: Show how cross-functional collaboration happens.
+Format: Role-play 
 
 Topics Covered:
 
