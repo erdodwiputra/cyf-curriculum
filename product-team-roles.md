@@ -1,4 +1,4 @@
-# 🧭 Workshop Title: **“Getting to Know Your Digital Product Team Members”**
+# 🧭 **“Getting to Know Your Digital Product Team Members”**
 
 
 ## 🎯 Goal:
