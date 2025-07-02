@@ -74,6 +74,7 @@ Objective: Let participants explore real artifacts within CYF product team and a
 ### Activity:
 
 Participants choose one team to research using internal resources (website, slack chats, emails, etc.)
+
 Prepare 3 questions to ask a real team member from the product team.
 
 ## Section 5: **Reflection & Wrap Up**
