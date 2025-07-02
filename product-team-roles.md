@@ -40,6 +40,7 @@ Format: Prepare a RACI matrix for the team
 
 ### Activity:
 Each pair needs to define a RACI (Responsible, Accountable, Consulted, Informed) matrix within the software development lifecycle
+
 Explain what each member does within that lifecycle (e.g., requirement, developing, testing, ceremonies, etc.).
 
 ## Section 3: **How the Team Members Work Together**
