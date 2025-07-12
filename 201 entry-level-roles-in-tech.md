@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 **Workshop Learning Goals:**
+## 🎯 **Workshop Learning Objective:**
 
 By the end of this workshop, learners will:
 
@@ -13,75 +13,59 @@ By the end of this workshop, learners will:
 
 ---
 
-## 🧱 **Design Principles:**
+# 🟦 **PREP: “What Entry Level Tech Jobs that is available out there?”**
 
-* Focused on **realistic jobs** that CYF grads can apply for now: e.g., IT Support, Data Analyst Assistant, QA Tester,Business Analyst, Project Coordinator, Junior Web Developer.
-* No jargon. Plain English. Confidence-building.
-* Emphasizes **skills-over-degrees** mindset.
-* Makes job search and career exploration a hands-on activity.
-
----
-
-## 🕒 **Total Duration: \~2.5 hours**
-
-**Split across 3 parts**
-
-| Time   | Segment                                                | Objective                                     | Format                                        |
-| ------ | ------------------------------------------------------ | --------------------------------------------- | --------------------------------------------- |
-| 45 min | Part 1: “What Jobs Can I Actually Get in Tech?”        | Discover accessible job titles and categories | Guided Self-Research + Mind Mapping           |
-| 45 min | Part 2: “Zoom In: What Do These Roles Really Involve?” | Learn real tasks, tools, job posts            | Role Template Research + Worksheet            |
-| 60 min | Part 3: “Which One is for Me?”                         | Match strengths → jobs + create next steps    | Flipped Group Discussion + Career Action Plan |
-
----
-
-# 🟦 **PART 1: “What Jobs Can I Actually Get in Tech?”**
-
-### ⏱ Duration: 45 minutes
+### ⏱ Suggested Duration: 45 minutes - 60 minutes
 
 ### 🎯 Objective: Discover real entry-level tech jobs that don’t require deep technical background
 
-### Format: Guided Self-Research + Mind Map (digital or paper)
+### Format: Self research and study before the actual workshop
 
 ---
 
 ### Instructions:
 
-1. **Google These Phrases:**
+1. **Start by searching with these phrases:**
 
    * "entry level IT jobs no experience"
    * "first job in tech with basic level coding"
    * “non-technical jobs in tech for graduates”
 
-2. **Use These Sites (suggested):**
-   * [CompTIA Career Pathways](https://www.comptia.org/content/career-pathways)
-   * [TechCareerExplorer](https://www.careerexplorer.com/careers/technology/)
+2. **Use These Sites (suggested) to deepen your understanding:**
+   * [CompTIA Career Pathways](https://www.comptia.org/en/explore-careers/job-roles/?page=1&category=all)
+   * [TechCareerExplorer](https://www.careerexplorer.com/careers/?page=23&industry=42)
+  
+---
 
-3. **Identify and List 8–10 Entry-Level Jobs**
-   Fill in a table like this:
+#  **PART 1: “What do these entry level tech jobs have in common?”**
 
-   | Job Title          |Short Description              | Requires Coding? |
-   | ------------------ |------------------------------ | ---------------- |
-   | IT Support         |Help employees fix tech issues | No               |
+### ⏱ Duration: 25 minutes
 
-4. **Group Them into Categories:**
+### 🎯 Objective: Discover real entry-level tech jobs that don’t require deep technical background
 
-   * 💻 **Support & Operations**: IT Support, Helpdesk, Service Desk
-   * 📊 **Data & Analysis**: Data Entry, Data Analyst Assistant, Reporting Analyst
-   * ✅ **Quality & Testing**: QA Tester, Manual Tester
-   * 🌐 **Web & Marketing**: Junior Web Developer, Digital Marketing Assistant
-   * 🔧 **Product & Process**: Project Assistant, Scrum Master Trainee, Business Analyst
+### Format: Team discussion in a group of 2-3 + Mind Map (digital or paper)
 
-5. **Visualise as a Mind Map**
+---
 
-   * Use Miro, Lucidchart, or paper
+### Instructions:
+
+1. **Identify and List about 10 Entry-Level Jobs**
+   List down all the entry-level jobs you managed to find so far and use sticky notes to put in a whiteboard / flipchart 
+
+2. **Group those entry-level job into Categories:**
+    Brainstorm within your group if these roles have similar characteristics and whether they can be categorized  
+
+3. **Visualise as a Mind Map**
+
+   * Use the post-it notes you have sticked earlier and re-arrange those into a Mind Map format by grouping those with similar characteristics
    * Central node: “Entry-Level Tech Jobs”
    * Branches: job categories and roles
 
 ---
 
-# 🟩 **PART 2: “Zoom In: What Do These Roles Really Involve?”**
+# **PART 2: “Zoom In: What Do These Roles Really Involve?”**
 
-### ⏱ Duration: 45 minutes
+### ⏱ Duration: 65 minutes
 
 ### 🎯 Objective: Understand day-to-day tasks, tools, and entry paths
 
@@ -91,7 +75,7 @@ By the end of this workshop, learners will:
 
 ### Instructions:
 
-1. **Pick 3 Jobs You Found in Part 1**
+1. **Pick 3 Jobs You identified and list in Part 1 that interests you the most**
 2. **Fill Out This Template for Each Role:**
 
 ```
@@ -112,25 +96,26 @@ By the end of this workshop, learners will:
 
 ---
 
-# 🟨 **PART 3: “Which One Is for Me?”**
 
-### ⏱ Duration: 60 minutes
+# **Coursework: “Which One Is for Me?”**
+
+### ⏱ Suggested Duration: 60 minutes
 
 ### 🎯 Objective: Match personal interests and strengths to realistic tech roles + set next steps
 
-### Format: Flipped peer discussion + Career Planning
+### Format: Career Planning
 
 ---
 
 ### Instructions:
 
-1. **Discussion in Pairs or Groups (30 min):**
+1. **Create the Career map - where do I want to be and how to get there**
 
-   * Present your favorite job and why it appeals to you.
-   * Share something surprising from the job ad.
-   * What do you already know or do that could help you succeed in this role?
-
-2. **Write Your Mini Career Action Plan (30 min):**
+   * From your research, identify your favorite job and why it may appeal to you.
+   * What do you already know that could help you succeed in this role?
+   * Can you identify what are the gaps to those requirements in the job posting?
+     
+2. **Write Your Career Action Plan**
 
 ```
 💼 Job I want to explore more:
@@ -139,13 +124,3 @@ By the end of this workshop, learners will:
 🧑‍🤝‍🧑 A person/community I’ll reach out to:
 📆 3 Things I’ll do this week:
 ```
-
-## 🧰 Summary Table
-
-| Part                              | Duration | Focus                      | Output                 |
-| --------------------------------- | -------- | -------------------------- | ---------------------- |
-| 1. Discover Entry-Level Tech Jobs | 45 min   | Understand realistic roles | Job map or list        |
-| 2. Deep Dive into 3 Roles         | 45 min   | Know tasks/tools           | 3 completed job sheets |
-| 3. Align and Act                  | 60 min   | Match strengths to jobs    | Personal Action Plan   |
-
----
