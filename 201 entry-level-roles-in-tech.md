@@ -69,7 +69,7 @@ By the end of this workshop, learners will:
 
 ### 🎯 Objective: Understand day-to-day tasks, tools, and entry paths
 
-### Format: Research-based worksheet
+### Format: Research-based worksheet in group of 2-3
 
 ---
 
@@ -103,7 +103,7 @@ By the end of this workshop, learners will:
 
 ### 🎯 Objective: Match personal interests and strengths to realistic tech roles + set next steps
 
-### Format: Career Planning
+### Format: Self Career Planning
 
 ---
 
